@@ -19,3 +19,10 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 </ul>
 
 The task is episodic, and in order to solve the environment, The agent get an average score of +13 over 100 consecutive episodes.
+
+
+## How to Interact with the project
+1. Clone and Navigator Jupyter NB
+
+## Licensing, Authors, Acknowledgements, etc.
+MIT
