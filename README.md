@@ -18,4 +18,4 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 <li><strong><code>3</code></strong> - turn right.</li>
 </ul>
 
-The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes.
+The task is episodic, and in order to solve the environment, The agent get an average score of +13 over 100 consecutive episodes.
