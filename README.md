@@ -1,6 +1,7 @@
 # DRL-Value-Based-Methods-Navigation
-Deep Learning agent that navigate in a virtual world and collect as many yellow bananas as possible while avoiding blue bananas.
+Deep Learning agent that navigate in a virtual world and collect as many yellow bananas as possible while avoiding blue bananas in a large, square world. 
 
+<img src="https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b1ab4b0_banana/banana.gif" alt="" width="400px" class="index--image--1wh9w">
 
 ### Project Overview  
 For this project, you will train an agent to navigate (and collect bananas!) in a large, square world.
