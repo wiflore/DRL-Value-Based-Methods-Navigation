@@ -24,5 +24,9 @@ The task is episodic, and in order to solve the environment, The agent get an av
 ## How to Interact with the project
 1. Clone and Navigator Jupyter NB
 
+## Potential improvement  
+Implement Rainbow and double DQN, a dueling DQN, and/or prioritized experience replay.
+
 ## Licensing, Authors, Acknowledgements, etc.
 MIT
+
