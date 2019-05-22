@@ -39,6 +39,19 @@ The task is episodic, and in order to solve the environment, The agent get an av
 </li>
 </ol>
 
+Once you setup the enviroment open the Navigation.ipynb file. This file has five parts:
+
+  1. Start the Environment
+  2. Examine the State and Action Spaces 
+  3. Take Random Actions in the Environment  
+  4. Train the Agent with DQN  
+  5. Test Smart Agent!  
+  
+
+if you want to see check the results run part 1, 2, 3 and 5. If you want to train the agent you must run also part 4. 
+
+Enjoy it. 
+
 ## Potential improvement  
 Implement Rainbow and double DQN, a dueling DQN, and/or prioritized experience replay.
 
