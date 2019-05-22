@@ -19,7 +19,22 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 </ul>
 
 The task is episodic, and in order to solve the environment, The agent get an average score of +13 over 100 consecutive episodes.
-
+<ol>
+<li>
+<p>Download the environment from one of the links below.  You need only select the environment that matches your operating system:</p>
+<ul>
+<li>Linux: <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip" rel="nofollow">click here</a></li>
+<li>Mac OSX: <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip" rel="nofollow">click here</a></li>
+<li>Windows (32-bit): <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip" rel="nofollow">click here</a></li>
+<li>Windows (64-bit): <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip" rel="nofollow">click here</a></li>
+</ul>
+<p>(<em>For Windows users</em>) Check out <a href="https://support.microsoft.com/en-us/help/827218/how-to-determine-whether-a-computer-is-running-a-32-bit-version-or-64" rel="nofollow">this link</a> if you need help with determining if your computer is running a 32-bit version or 64-bit version of the Windows operating system.</p>
+<p>(<em>For AWS</em>) If you'd like to train the agent on AWS (and have not <a href="https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md">enabled a virtual screen</a>), then please use <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux_NoVis.zip" rel="nofollow">this link</a> to obtain the environment.</p>
+</li>
+<li>
+<p>Place the file in the DRLND GitHub repository, in the <code>p1_navigation/</code> folder, and unzip (or decompress) the file.</p>
+</li>
+</ol>
 
 ## How to Interact with the project
 Clone and run Navigation Jupyter NB
