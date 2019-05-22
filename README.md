@@ -20,7 +20,6 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 
 The task is episodic, and in order to solve the environment, The agent get an average score of +13 over 100 consecutive episodes.
 
-### Instructions
 
 <div class="_main--content-container--ILkoI"><div><div class="index--container--2OwOl"><div class="index--atom--lmAIo layout--content--3Smmq"><div class="ltr"><div class="index-module--markdown--2MdcR ureact-markdown "><h1 id="the-environment">The Environment</h1>
 </div></div><span></span></div></div></div><div><div class="index--container--2OwOl"><div class="index--atom--lmAIo layout--content--3Smmq"><div class="ltr"><div class="index-module--markdown--2MdcR ureact-markdown "><p>Follow the instructions below to explore the environment on your own machine!  You will also learn how to use the Python API to control your agent.</p>
@@ -44,7 +43,7 @@ The task is episodic, and in order to solve the environment, The agent get an av
 <p>(<em>For AWS</em>) If you'd like to train the agent on AWS (and have not <a target="_blank" href="https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md">enabled a virtual screen</a>), then please use <a target="_blank" href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux_NoVis.zip">this link</a> to obtain the "headless" version of the environment.  You will <strong>not</strong> be able to watch the agent without enabling a virtual screen, but you will be able to train the agent.  (<em>To watch the agent, you should follow the instructions to <a target="_blank" href="https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md">enable a virtual screen</a>, and then download the environment for the <strong>Linux</strong> operating system above.</em>)</p>
 <h2 id="step-3-explore-the-environment">Step 3: Explore the Environment</h2>
 <hr>
-<p>After you have followed the instructions above, clone this repo <code> https://github.com/wiflore/DRL-Value-Based-Methods-Navigation.git/</code> in the  p1_navigation folder and open <code>Navigation.ipynb</code> (located <code>this repo</code>) and follow the instructions to learn how to use the Python API to control the agent. This file has five parts:
+<p>After you have followed the instructions above, copy the file of this repo in the <code> p1_navigation folder </code> and open the file <code>Navigation.ipynb</code> and follow the instructions. This file has five parts:
 
   1. Start the Environment
   2. Examine the State and Action Spaces 
@@ -63,7 +62,6 @@ Enjoy it.
   </p>
 </div></div><span></span></div></div></div></div>
 
-Once you setup the enviroment open the Navigation.ipynb file. 
 ## Potential improvement  
 Implement Rainbow and double DQN, a dueling DQN, and/or prioritized experience replay.
 
