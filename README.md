@@ -19,6 +19,9 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 </ul>
 
 The task is episodic, and in order to solve the environment, The agent get an average score of +13 over 100 consecutive episodes.
+
+### Instructions
+
 <ol>
 <li>
 <p>Download the environment from one of the links below.  You need only select the environment that matches your operating system:</p>
@@ -35,9 +38,6 @@ The task is episodic, and in order to solve the environment, The agent get an av
 <p>Place the file in the DRLND GitHub repository, in the <code>p1_navigation/</code> folder, and unzip (or decompress) the file.</p>
 </li>
 </ol>
-
-## How to Interact with the project
-Clone and run Navigation Jupyter NB
 
 ## Potential improvement  
 Implement Rainbow and double DQN, a dueling DQN, and/or prioritized experience replay.
