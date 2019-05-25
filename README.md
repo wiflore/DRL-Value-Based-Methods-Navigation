@@ -64,8 +64,6 @@ Enjoy it.
   </p>
 </div></div><span></span></div></div></div></div>
 
-## Potential improvement  
-Implement Rainbow and double DQN, a dueling DQN, and/or prioritized experience replay.
 
 ## Licensing, Authors, Acknowledgements, etc.
 MIT
